@@ -1,0 +1,36 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+  
+    text-align: center;
+    box-sizing: border-box;
+}
+
+
+.app{
+    /* background-color: grey; */
+    /* color:#fff; */
+    /* width:500px;
+    
+  
+    /* margin: 20vh auto; */
+    border-radius: 5px;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.3);
+    height: 100%;
+    /* padding:50px; */
+}
+#appi{
+    width: 100%;
+    height: 00%;
+}
+
+/* .app h1{
+    font-size: 5em;
+    padding:10px;
+    margin-left:25px;
+    font-weight: 300;
+}
+
+.app h2{
+    font-weight: 300;
+    letter-spacing: 5px;
+} */
